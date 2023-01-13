@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name     = "mediumish"
   spec.version  = "0.0.1"
-  spec.authors  = [""]
-  spec.email    = [""]
+  spec.authors  = ["Sal", "John"]
+  spec.email    = ["wowthemesnet@gmail.com"]
 
   spec.summary  = "A beautiful, mediumish theme for Jekyll."
-  spec.homepage = "https://github.com/wowthemesnet/mediumish-theme-jekyll"
+  spec.homepage = "https://github.com/neerajkumar/mediumish-theme-jekyll"
   spec.license  = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
