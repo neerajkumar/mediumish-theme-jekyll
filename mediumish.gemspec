@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name     = "mediumish"
-  spec.version  = "0.0.1"
+  spec.version  = "0.0.2"
   spec.authors  = ["Sal", "John"]
   spec.email    = ["wowthemesnet@gmail.com"]
 
